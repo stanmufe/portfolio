@@ -34,8 +34,9 @@ a:hover {
     color: #FB0D1B;
 }
 
-header img {
+header svg {
     margin-top: 5rem;
+    fill: #053EFF;
 }
 
 h1 {
@@ -304,7 +305,12 @@ footer svg:hover {
 
 @media only screen and (max-width: 360px) {
 
-    header img {
+    .contenedor {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    header svg {
         margin-top: 2.5rem;
     }
 
@@ -375,6 +381,7 @@ footer svg:hover {
 
     footer svg {
         width: 3rem;
+        margin-top: 2rem;
     }    
 
     .copyr {
