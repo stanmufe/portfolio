@@ -161,13 +161,14 @@ footer svg:hover {
 
 @media only screen and (max-width: 1750px) and (min-width: 1200px) {
 
+
     .mockup {
         margin-top: 10rem;
         max-width: 100%;
     }
 
     #space {
-        justify-content: center;
+        justify-content: left;
     }    
 
 }
