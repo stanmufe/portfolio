@@ -21,7 +21,7 @@
 html {
     scroll-behavior: smooth;
     font-size: 16px;
-    font-family: "PublicSansMedium",;
+    font-family: "PublicSansMedium", "Roboto", sans-serif;
 }
 
 a {
@@ -40,20 +40,20 @@ header svg {
 }
 
 h1 {
-    font-family: "PublicSansExtraBold",;
+    font-family: "PublicSansExtraBold", "Roboto", sans-serif;
     font-size: 12rem;
     line-height: 1;
     text-align: right;
 }
 
 h2 {
-    font-family: "PublicSansExtraBold",;
+    font-family: "PublicSansExtraBold", "Roboto", sans-serif;
     font-size: 6.25rem;
     text-align: right;
 }
 
 h3 {
-    font-family: "PublicSansExtraBold",;
+    font-family: "PublicSansExtraBold", "Roboto", sans-serif;
     font-size: 3rem;
     line-height: 1;
 }
