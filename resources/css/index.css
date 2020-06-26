@@ -1,15 +1,15 @@
 @font-face {
     font-family: "PublicSans-ExtraBold";
-    src: url(fuentes/PublicSans-ExtraBold.woff2) format('woff2'),
-         url(fuentes/PublicSans-ExtraBold.woff) format('woff'),
-         url(fuentes/PublicSans-ExtraBold.tff) format('truetype');
+    src: url(resources/fuentes/PublicSans-ExtraBold.woff2) format('woff2'),
+         url(resources/fuentes/PublicSans-ExtraBold.woff) format('woff'),
+         url(resources/fuentes/PublicSans-ExtraBold.ttf) format('truetype');
   }
 
 @font-face {
     font-family: "PublicSans-Medium";
-    src: url(fuentes/PublicSans-Medium.woff2) format('woff2'),
-         url(fuentes/PublicSans-Medium.woff) format('woff'),
-         url(fuentes/PublicSans-Medium.tff) format('truetype');
+    src: url(resources/fuentes/PublicSans-Medium.woff2) format('woff2'),
+         url(resources/fuentes/PublicSans-Medium.woff) format('woff'),
+         url(resources/fuentes/PublicSans-Medium.ttf) format('truetype');
   }
 
 * {
