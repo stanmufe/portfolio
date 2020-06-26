@@ -1,12 +1,12 @@
 @font-face {
-    font-family: "PublicSans-ExtraBold";
+    font-family: "PublicSansExtraBold";
     src: url(resources/fuentes/PublicSans-ExtraBold.woff2) format('woff2'),
          url(resources/fuentes/PublicSans-ExtraBold.woff) format('woff'),
          url(resources/fuentes/PublicSans-ExtraBold.ttf) format('truetype');
   }
 
 @font-face {
-    font-family: "PublicSans-Medium";
+    font-family: "PublicSansMedium";
     src: url(resources/fuentes/PublicSans-Medium.woff2) format('woff2'),
          url(resources/fuentes/PublicSans-Medium.woff) format('woff'),
          url(resources/fuentes/PublicSans-Medium.ttf) format('truetype');
@@ -21,7 +21,7 @@
 html {
     scroll-behavior: smooth;
     font-size: 16px;
-    font-family: "PublicSans-Medium", "Roboto", sans-serif;
+    font-family: "PublicSansMedium", "Roboto", sans-serif;
 }
 
 a {
@@ -40,20 +40,20 @@ header svg {
 }
 
 h1 {
-    font-family: "PublicSans-ExtraBold", "Roboto", sans-serif;
+    font-family: "PublicSansExtraBold", "Roboto", sans-serif;
     font-size: 12rem;
     line-height: 1;
     text-align: right;
 }
 
 h2 {
-    font-family: "PublicSans-ExtraBold", "Roboto", sans-serif;
+    font-family: "PublicSansExtraBold", "Roboto", sans-serif;
     font-size: 6.25rem;
     text-align: right;
 }
 
 h3 {
-    font-family: "PublicSans-ExtraBold", "Roboto", sans-serif;
+    font-family: "PublicSansExtraBold", "Roboto", sans-serif;
     font-size: 3rem;
     line-height: 1;
 }
